@@ -1,4 +1,4 @@
-# \[Hsz884, \]
+# \[Julius, Lucas & Sarah \]
 
 **Group members:**
 - HSZ884
