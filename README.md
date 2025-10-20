@@ -1,8 +1,8 @@
-# \[Group name\]
+# \[Hsz884, \]
 
 **Group members:**
-- A
-- B
+- HSZ884
+- CDX630
 - C
 
 This repository contains  
